@@ -6,7 +6,7 @@ const config = {
   server: {
     host: 'adan_babar.aternos.me', // Change to your server IP
     port: 14807,
-    version: '1.21.1' // Change to your server version
+    version: '1.20.4' // Change to your server version
   },
   bot: {
     username: 'meowghop', // Change to your desired bot name
